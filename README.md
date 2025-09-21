@@ -25,24 +25,22 @@ This portfolio demonstrates my ability to:
 - Work with diverse data formats, from tabular CSVs to spatial raster layers.  
 - Implement reproducible workflows in R using `tidyverse`, `ggplot2`, and specialised packages (`igraph`, `ggalluvial`, `raster`, `sf`).
 
-## 📂 Repository Structure  
+## 📁 Files & Folders
+
+- `Portfolio.Rmd` → Main R Markdown file (contains all code + answers).  
+- `Portfolio.html` → Knitted HTML version (this is the one linked by Pages).  
+- `README.md` → Overview of the repository.  
+- `Davis et al 2015.pdf` → Week 3 reading referenced in critique section.  
+- `forest_area.csv` → Dataset used for radar and alluvial plots on global forest areas.  
+
+### Data folders
+- `w7/data/` → Farm attributes and edge list for **cattle movement network**.  
+- `invasive_plant_rasters_2019/` → Raster `.tif` files for **Minnesota invasive plant maps**.  
+- `whiskey_data/whiskey_data/` → Location + sales data for **Tasmanian whiskey trade maps**.
 
 - `Portfolio.Rmd` → Main R Markdown file containing the full portfolio analysis and visualisations.  
 - `Portfolio.html` → Knitted HTML version of the portfolio (viewable via GitHub Pages).  
-- `README.md` → Overview of the repository, case studies, and file descriptions.  
-
-### 📝 Case Studies  
-- `Part A/Case-Study-A--n11688751-.html` → Case Study A: Evaluation of an existing data visualisation and critique based on storytelling principles.  
-- `Part B/Case-Study-Part-B.html` → Case Study B: Redesign of a data visualisation with justifications for improvements.  
-
-### 📊 Data  
-- `forest_area.csv` → Dataset used for radar and alluvial visualisations of forest area by continent and country.  
-- `w7/data/` → Farm datasets for cattle movement network visualisations (Week 7 practical).  
-- `invasive_plant_rasters_2019/` → Raster datasets of invasive plant distributions in Minnesota (used in Week 10 mapping tasks).  
-- `whiskey_data/whiskey_data/` → Whiskey sales and location datasets for Tasmanian whiskey trade mapping.  
-
-### 📖 Reference  
-- `Davis et al 2015.pdf` → Reading used in Week 3 task on science communication and visual storytelling.  
+- `README.md` → Overview of the repository, case studies, and file descriptions.   
 
 ## How to View
 Open report here: [Data Visualisation Portfolio](https://tobitob708.github.io/data-visualisation-portfolio/Portfolio.html)
