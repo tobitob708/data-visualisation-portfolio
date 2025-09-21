@@ -23,24 +23,7 @@ It showcases a series of practicals and assessments completed during the semeste
 This portfolio demonstrates my ability to:
 - Apply design principles and audience-focused storytelling in data communication.  
 - Work with diverse data formats, from tabular CSVs to spatial raster layers.  
-- Implement reproducible workflows in R using `tidyverse`, `ggplot2`, and specialised packages (`igraph`, `ggalluvial`, `raster`, `sf`).
-
-## 📁 Files & Folders
-
-- `Portfolio.Rmd` → Main R Markdown file (contains all code + answers).  
-- `Portfolio.html` → Knitted HTML version (this is the one linked by Pages).  
-- `README.md` → Overview of the repository.  
-- `Davis et al 2015.pdf` → Week 3 reading referenced in critique section.  
-- `forest_area.csv` → Dataset used for radar and alluvial plots on global forest areas.  
-
-### Data folders
-- `w7/data/` → Farm attributes and edge list for **cattle movement network**.  
-- `invasive_plant_rasters_2019/` → Raster `.tif` files for **Minnesota invasive plant maps**.  
-- `whiskey_data/whiskey_data/` → Location + sales data for **Tasmanian whiskey trade maps**.
-
-- `Portfolio.Rmd` → Main R Markdown file containing the full portfolio analysis and visualisations.  
-- `Portfolio.html` → Knitted HTML version of the portfolio (viewable via GitHub Pages).  
-- `README.md` → Overview of the repository, case studies, and file descriptions.   
+- Implement reproducible workflows in R using `tidyverse`, `ggplot2`, and specialised packages (`igraph`, `ggalluvial`, `raster`, `sf`).  
 
 ## How to View
 Open report here: [Data Visualisation Portfolio](https://tobitob708.github.io/data-visualisation-portfolio/Portfolio.html)
