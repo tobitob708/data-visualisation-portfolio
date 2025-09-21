@@ -1,7 +1,7 @@
 # Data Visualisation Portfolio
 
 ## How to View
-
+[](https://github.com/tobitob708/data-visualisation-portfolio/blob/main/Portfolio.html)
 
 ## Introduction
 This repository contains my portfolio for **MXB262 Data Visualisation** at QUT.  
