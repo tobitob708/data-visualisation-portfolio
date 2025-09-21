@@ -1,8 +1,5 @@
 # Data Visualisation Portfolio
 
-## How to View
-[](https://github.com/tobitob708/data-visualisation-portfolio/blob/main/Portfolio.html)
-
 ## Introduction
 This repository contains my portfolio for **MXB262 Data Visualisation** at QUT.  
 It showcases a series of practicals and assessments completed during the semester, applying key principles of data storytelling, exploratory analysis, and effective communication.
@@ -26,5 +23,8 @@ It showcases a series of practicals and assessments completed during the semeste
 This portfolio demonstrates my ability to:
 - Apply design principles and audience-focused storytelling in data communication.  
 - Work with diverse data formats, from tabular CSVs to spatial raster layers.  
-- Implement reproducible workflows in R using `tidyverse`, `ggplot2`, and specialised packages (`igraph`, `ggalluvial`, `raster`, `sf`).  
+- Implement reproducible workflows in R using `tidyverse`, `ggplot2`, and specialised packages (`igraph`, `ggalluvial`, `raster`, `sf`).
+
+## How to View
+[Data Visualisation Portfolio](https://github.com/tobitob708/data-visualisation-portfolio/blob/main/Portfolio.html)
 
