@@ -26,5 +26,5 @@ This portfolio demonstrates my ability to:
 - Implement reproducible workflows in R using `tidyverse`, `ggplot2`, and specialised packages (`igraph`, `ggalluvial`, `raster`, `sf`).
 
 ## How to View
-[Data Visualisation Portfolio](https://github.com/tobitob708/data-visualisation-portfolio/blob/main/Portfolio.html)
+Open report here: [Data Visualisation Portfolio](https://github.com/tobitob708/data-visualisation-portfolio/blob/main/Portfolio.html)
 
